@@ -4,5 +4,5 @@ metadata:
   caAgileId: poc
   projectKey: com.optum.myorg.myapp:component
   projectFriendlyName: MyApp-component
-  componentType: doc
+  componentType: code
   targetQG: GATE_00
