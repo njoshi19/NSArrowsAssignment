@@ -4,5 +4,5 @@ metadata:
   caAgileId: 'do not use rally or use other system'
   projectKey: null
   projectFriendlyName: null
-  componentType: code
+  componentType: docs
   targetQG: GATE_EXEMPT
